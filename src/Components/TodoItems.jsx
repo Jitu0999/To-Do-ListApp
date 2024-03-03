@@ -12,7 +12,6 @@ const TodoItems = ({no,display,text,setTodos}) => {
   }
   
   
-  
   const toggle = (no) => {
     let data =JSON.parse(localStorage.getItem("todos"));
     for(let i=0; i<data.length;i++)

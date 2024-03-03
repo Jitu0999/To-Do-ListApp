@@ -21,6 +21,7 @@
     line-height: 34px;
     text-align: center;
 }
+
 .todo-add {
     display: flex;
     justify-content: center;

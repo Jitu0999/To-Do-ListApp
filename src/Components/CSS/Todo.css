@@ -1,6 +1,6 @@
 .todo {
-    width: 500px;
-    min-height: 600px;
+    width: 450px;
+    min-height: 550px;
     border-radius: 20px;
     background: #fff;
     margin: auto;
@@ -19,6 +19,7 @@
     font-size: 36px;
     font-weight: 600;
     line-height: 34px;
+    text-align: center;
 }
 .todo-add {
     display: flex;

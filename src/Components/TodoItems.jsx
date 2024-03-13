@@ -3,6 +3,7 @@ import tick from './Assets/tick.png'
 import not_tick from './Assets/not_tick.png'
 import cross from './Assets/cross.png'
 
+
 const TodoItems = ({no,display,text,setTodos}) => {
 
   const deleteTodo = (no) =>{

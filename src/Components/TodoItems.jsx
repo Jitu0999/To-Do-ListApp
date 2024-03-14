@@ -31,7 +31,6 @@ const TodoItems = ({no,display,text,setTodos}) => {
     setTodos(data);
   }
 
-  
   return (
     <div className='todoitems'>
       <div className={`todoitems-container ${display}`} onClick={()=> {toggle(no)}}>
